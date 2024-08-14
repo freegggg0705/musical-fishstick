@@ -1,1 +1,1 @@
-"Create a new repository can give you a new subpages by first go to setting then click Pages and then 
+"Create a new repository can give you a new subpages by first go to setting then click Pages and then under Build and Deployment, Branch column click None to select main (of course you have to upload a index.html to main first) , then subpage would exist"
